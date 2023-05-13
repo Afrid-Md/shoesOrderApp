@@ -1,0 +1,12 @@
+.cart{
+    height: auto;
+    width: 600px;
+    border:1px solid black;
+    background-color: brown;
+    margin-top: 20px;
+    border-radius: 20px;
+}
+
+.button{
+    margin-bottom: 10px;
+}
